@@ -4,6 +4,8 @@
 
 <span style="color: #ed750c">我被过滤了</span>
 
+The background color should be `#ffffff` for light mode and `#0d1117` for dark mode.
+
 ![](https://pandao.github.io/editor.md/images/logos/editormd-logo-180x180.png)
 
 ![](https://img.shields.io/github/stars/pandao/editor.md.svg) ![](https://img.shields.io/github/forks/pandao/editor.md.svg) ![](https://img.shields.io/github/tag/pandao/editor.md.svg) ![](https://img.shields.io/github/release/pandao/editor.md.svg) ![](https://img.shields.io/github/issues/pandao/editor.md.svg) ![](https://img.shields.io/bower/v/editor.md.svg)
